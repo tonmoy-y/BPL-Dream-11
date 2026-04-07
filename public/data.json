@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "name": "Virat Kohli",
+    "country": "India",
+    "rating": 92,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Batsman",
+    "price": 1500000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Virat_Kohli_in_PMO_New_Delhi.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "rating": 90,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "player_type": "Batsman",
+    "price": 1400000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Babar_azam_2023.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Joe Root",
+    "country": "England",
+    "rating": 89,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "player_type": "Batsman",
+    "price": 1350000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Joe_Root_HIP1487_%28cropped%29.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "rating": 88,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "player_type": "Batsman",
+    "price": 1300000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Kane_Williamson_in_2019.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Steve Smith",
+    "country": "Australia",
+    "rating": 91,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm legbreak",
+    "player_type": "Batsman",
+    "price": 1450000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/STEVE_SMITH_%2811705303043%29.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Ben Stokes",
+    "country": "England",
+    "rating": 90,
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "All-Rounder",
+    "price": 1550000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/3_14_Captain_Ben_%28cropped%29.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "rating": 90,
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm orthodox",
+    "player_type": "All-Rounder",
+    "price": 1400000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/Shakib_Al_Hasan_%282010%29.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Hardik Pandya",
+    "country": "India",
+    "rating": 87,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "All-Rounder",
+    "price": 1250000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Hardik_Pandya_in_PMO_New_Delhi.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Ravindra Jadeja",
+    "country": "India",
+    "rating": 88,
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm orthodox",
+    "player_type": "All-Rounder",
+    "price": 1300000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/PM_Shri_Narendra_Modi_with_Ravindra_Jadeja_%28Cropped%29.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Glenn Maxwell",
+    "country": "Australia",
+    "rating": 86,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "player_type": "All-Rounder",
+    "price": 1200000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Glen_Maxwell_2026_%28cropped%29.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "rating": 94,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast",
+    "player_type": "Bowler",
+    "price": 1600000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Jasprit_Bumrah_in_PMO_New_Delhi.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Shaheen Afridi",
+    "country": "Pakistan",
+    "rating": 92,
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm fast",
+    "player_type": "Bowler",
+    "price": 1500000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Shaheen_Afridi_%282%29.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Mitchell Starc",
+    "country": "Australia",
+    "rating": 91,
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm fast",
+    "player_type": "Bowler",
+    "price": 1450000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Mitchell_Starc_2023.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Trent Boult",
+    "country": "New Zealand",
+    "rating": 89,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Left-arm fast-medium",
+    "player_type": "Bowler",
+    "price": 1350000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/2018.02.03.22.23.14-AUSvNZL_T20_AUS_innings%2C_SCG_%2839533156665%29.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Rashid Khan(Forever 19)",
+    "country": "Afghanistan",
+    "rating": 83,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm legbreak",
+    "player_type": "Bowler",
+    "price": 155000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Rashid_Khan.jpg"
+  }
+]
